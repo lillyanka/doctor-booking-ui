@@ -48,6 +48,7 @@ To serve a static version of the app, run `serve -s build`
 
 ## Next steps (known issues, improvements)
 
+- Use MaterialUI to improve look and feel and create an Admin Dashboard
 - Create a backend using Nest.js (for Typescript support) and MongoDB
 - Add other features, such as patient records and billing
 - Authentication with JWT
