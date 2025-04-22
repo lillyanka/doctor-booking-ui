@@ -42,3 +42,13 @@ This will automatically open the app in your default browser at `http://localhos
 
 To serve a static version of the app, run `serve -s build`
 
+## AI usage
+
+- DeepSeek was used to generate the scaffold of the app (App.tsx, mock data, types, DoctorCard component), and basic tests (DoctorCard tests)
+
+## Next steps (known issues, improvements)
+
+- Create a backend using Nest.js (for Typescript support) and MongoDB
+- Add other features, such as patient records and billing
+- Authentication with JWT
+- Build an API (REST or GraphQL)
